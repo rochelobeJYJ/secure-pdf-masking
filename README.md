@@ -6,7 +6,7 @@
 
 PDF 문서에서 특정 텍스트를 검정 박스로 마스킹하여 **개인정보를 안전하게 보호**하는 Windows용 도구입니다.
 
-![Screenshot](screenshot.png)
+![Screenshot](screenshot.jpg)
 
 ## ⚠️ 보안 기능
 
